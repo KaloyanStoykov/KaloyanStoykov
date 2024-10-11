@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/KaloyanStoykov/KaloyanStoykov/banner.png)
+![wallhaven-vgexwm_1200x450](https://github.com/user-attachments/assets/8284e141-c48a-4312-9ea8-e77f8a50cecc)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
@@ -7,7 +7,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![wallhaven-vgexwm_1200x450](https://github.com/user-attachments/assets/9170e4d6-0312-48e4-ab6b-a7702b104841)
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
