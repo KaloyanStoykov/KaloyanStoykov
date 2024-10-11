@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/KaloyanStoykov/KaloyanStoykov/wallhaven-vgexwm_1200x450.png)
+![Banner Image](https://github.com/KaloyanStoykov/KaloyanStoykov/banner.png)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
