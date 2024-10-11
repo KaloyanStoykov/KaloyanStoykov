@@ -11,7 +11,7 @@ Currently learning python for a backend application, coupled with postgresql.
 I have tried to explore many technologies in various ways like personal projects, practice exercises and general points of interests.
 
 I am currently interning with **Python** and **postgreSQL**.
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=java,python,cs,html,css,js,react,postgres,mysql,docker))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,postgres,mysql,javascript,react,html,css,react)](https://skillicons.dev)
 
 #
 <!--
