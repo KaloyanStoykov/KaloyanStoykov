@@ -1,6 +1,19 @@
-![wallhaven-vgexwm_1200x450](https://github.com/user-attachments/assets/8284e141-c48a-4312-9ea8-e77f8a50cecc)
+![banner](https://github.com/user-attachments/assets/aaef9209-3d96-496d-8201-b71d115c1757)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Introduction
+Hello, my name is Kaloyan Stoykov.
+I am currently interning at D-centralize B.V. in the pro6pp product. I have a passion for developing various types of applications in all business fields and also show deep interest in learning and exploring Artificial Intelligence and Machine Learning for my future studies.
+
+## Currently Learning
+Currently learning python for a backend application, coupled with postgresql.
+
+## Technical skills / stack
+I have tried to explore many technologies in various ways like personal projects, practice exercises and general points of interests.
+
+I am currently interning with **Python** and **postgreSQL**.
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=java,python,cs,html,css,js,react,postgres,mysql,docker))](https://skillicons.dev)
+
+#
 <!--
 **KaloyanStoykov/KaloyanStoykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
