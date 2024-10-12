@@ -10,7 +10,7 @@ Currently learning python for a backend application, coupled with postgresql.
 ## Technical skills / stack
 I have tried to explore many technologies in various ways like personal projects, practice exercises and general points of interests.
 
-I am currently interning with **Python** and **postgreSQL** on a geodata transformation project for D-centralize B.V. In my free time I like to read tech newsletters, enjoy going to the gym and listening to different types of podcasts.cha
+I am currently interning with **Python** and **postgreSQL** on a geodata transformation project for D-centralize B.V. In my free time I like to read tech newsletters, enjoy going to the gym and listening to different types of podcasts
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,postgres,mysql,javascript,react,html,css,react)](https://skillicons.dev)
